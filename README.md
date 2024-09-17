@@ -21,7 +21,7 @@ cd react-16
 ```
 
 ```
-npm install
+pnpm install
 ```
 
 ```
