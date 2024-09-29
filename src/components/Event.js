@@ -10,6 +10,7 @@ function App() {
 
   const handleClick = (e) => {
     console.log("React 合成事件", e);
+    e.stopPropagation();
   };
 
   return (
