@@ -1,5 +1,5 @@
 import * as React from "react";
-import { unstable_batchedUpdates as batchedUpdates } from "react-dom";
+// import { unstable_batchedUpdates as batchedUpdates } from "react-dom";
 
 export default class BatchedDemo extends React.Component {
   state = {
